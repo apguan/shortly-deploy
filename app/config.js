@@ -36,5 +36,6 @@ db.knex.schema.hasTable('users').then(function(exists) {
     });
   }
 });
+//this is a test
 
 module.exports = db;

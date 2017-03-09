@@ -36,6 +36,6 @@ db.knex.schema.hasTable('users').then(function(exists) {
     });
   }
 });
-//this is a test
+//this is a test. really this is a test.
 
 module.exports = db;
